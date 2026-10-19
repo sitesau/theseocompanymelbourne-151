@@ -1,0 +1,22 @@
+{
+  "wheel_id": 450,
+  "structure": "umbrella",
+  "slug": "theseocompanymelbourne-151",
+  "project": "seo-services-melbourne-timeline-8fcc5c019414e9cec61ccd28c43b2a3",
+  "parent_t1_ref": "theseocompanymelbourne-011",
+  "node_role": "buffer",
+  "money_target": "theseocompanymelbourne.com.au",
+  "primary_kw": "seo services melbourne timeline",
+  "intended_url": "https://sitesau.github.io/theseocompanymelbourne-151/",
+  "tier": "T2",
+  "writeback_nonce": "4bf7a006f6aa1aee",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/seo-services-melbourne-011/",
+      "anchor": "Seo Services Melbourne: A Practical Buyer Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
